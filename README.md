@@ -4,7 +4,7 @@ This is the D-Lab respository for Introduction to Qualtrics workshop. See our [c
 
 These materials were authored by [Sean Freeder](https://dlab.berkeley.edu/people/sean-freeder-0) and contributed to by [Dan Stein](https://dlab.berkeley.edu/people/daniel-stein). 
 
-To get started:
+# To get started:
 Click the green "Clone or download" button
 
 Click "Download Zip"
