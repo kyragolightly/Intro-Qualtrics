@@ -1,12 +1,36 @@
 # Intro-Qualtrics
 
-This is the D-Lab respository for Introduction to Qualtrics workshop. See our [calendar for](https://dlab.berkeley.edu/calendar-node-field-date) when it will be offered next.
+This is the repository for D-Lab's Introduction to Qualtrics workshop. Laptop, Internet connection, and Zoom account required.
 
-These materials were authored by [Sean Freeder](https://dlab.berkeley.edu/people/sean-freeder-0) and contributed to by [Dan Stein](https://dlab.berkeley.edu/people/daniel-stein). 
+# Workshop Goals
 
-# To get started:
-Click the green "Clone or download" button
+Qualtrics is a powerful online tool available to Berkeley community members that can be used for a range of data collection activities.  Primarily, Qualtrics is designed to make web surveys easy to write, test, and implement, but the software can be used for data entry, training, quality control, evaluation, market research, pre/post-event feedback, and other uses with some creativity.  This overview will introduce a simple workflow using the system with an orientation to the main interfaces for web survey design, sample management, corresponding with sample members, and exporting data at the end of the field period.  Examples from completed surveys in public health, economics, program evaluation, and other disciplines will be incorporated in the overview.
+This workshop will introduce students to the basics of designing a survey instrument using the Qualtrics platform, such as randomization and survey flow. We will also cover more advanced topics like implementing embedded data and using javascript, as well as tips and tricks on how to use your design to maximize the number of quality responses you get.
 
-Click "Download Zip"
+# Installation Instructions
 
-Extract this zip file to your Desktop.
+In preparation for the upcoming workshop you will need to create a free Qualtrics account and download the workshop materials. 
+
+### 1) Access Qualtrics Account
+UC Berkeley students - access your Qualtrics account [here](https://berkeley.qualtrics.com).
+Otherwise, sign up for a free account [here](https://www.qualtrics.com/).
+
+### 2) Download the workshop materials
+
+Download the workshop materials by visiting the [GitHub repository](https://github.com/dlab-berkeley/Intro-Qualtrics). To run these lessons on your laptop: 
+
+* Click the green "Clone or Download" button
+* Click "Download Zip"
+* Extract this file someplace familiar (we recommend Desktop) 
+
+> If you are a Git user, simply clone this repository by opening a terminal and typing: `git clone https://github.com/dlab-berkeley/Intro-Qualtrics.git`
+
+
+# Is Qualtrics not working on your laptop?
+
+Attend the workshop anyway, we can provide you with a cloud-based solution (DataHub or Binder) until you figure out the problems with your local installation. 
+
+If you have a Berkeley CalNet ID, you can run these lessons on UC Berkeley's DataHub by clicking [this link](https://datahub.berkeley.edu/user/avery.richards/tree/Intro-Qualtrics). By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to [DataHub](https://datahub.berkeley.edu), sign in, and you click on the qualtrics-fundamentals folder.
+If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this [Binder button](https://mybinder.org/v2/gh/dlab-berkeley/Intro-Qualtrics/HEAD). By using this button, you cannot save your work. 
+
+
