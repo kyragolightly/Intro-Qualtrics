@@ -1,4 +1,4 @@
-# Intro-Qualtrics
+# D-Lab Qualtrics Fundamentals
 This is the repository for D-Lab's Introduction to Qualtrics workshop. Laptop, Internet connection, and Zoom account required.
 
 # Workshop Goals
