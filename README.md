@@ -21,6 +21,8 @@ Download the workshop materials by visiting the [GitHub repository](https://gith
 
 > If you are a Git user, simply clone this repository by opening a terminal and typing: `git clone https://github.com/dlab-berkeley/Intro-Qualtrics.git`
 
+We will take a few minutes at the start of the workshop to make sure everyone has a Qualtrics account and the workshop materials downloaded. Please feel free to email [dlab-frontdesk@berkeley.edu](dlab-frontdesk@berkeley.edu) or visit our [help desk](https://dlab.berkeley.edu/frontdesk) if you have any questions.
+
 
 # Is Qualtrics not working on your laptop?
 Attend the workshop anyway, we can provide you with a cloud-based solution (DataHub or Binder) until you figure out the problems with your local installation. 
